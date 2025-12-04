@@ -21,7 +21,9 @@
  
   
 ### 🛠️ 代码碎片 Code fragments
-- [Some codes were used on above paper](https://github.com/username/toolkit) - I'm still improving my coding..so it's fragments only.
+- [WOA optimized GCN_for HO-STGCN](https://github.com/CarolineZOU/Thesis/blob/main/WOA_optimized_gcn) - fragments 1.
+- [GA_optimized_GCN for HO-STGCN](https://github.com/CarolineZOU/Thesis/blob/main/GA_optimized_gcn)  - fragments 2.
+- [Coding Result_PSM-DID.pdf](https://github.com/CarolineZOU/Thesis/blob/main/Coding%20Result_PSM-DID.pdf) - coding report
 
 ## 📊 数据集 Database
 - [Dataset Name](datasets/dataset-name) - 数据集描述
