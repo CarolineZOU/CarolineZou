@@ -11,6 +11,7 @@
 
 ### 🔥 论文 Thesis
 - **[Quantitative Analysis and Strategy Insights Into Momentum Dynamics at Wimbledon](https://github.com/CarolineZOU/Thesis/blob/main/2024%20Quantitative%20Analysis%20and%20Strategy%20Insights%20Into%20Momentum%20Dynamics%20at%20Wimbledon.pdf)** - 2024, Honorable Mention for the American College Student Mathematical Modeling Competition
+- **[The impact of the construction of national entrepreneurship and entrepreneurship demonstration base on the digital transformation of enterprises: an empirical analysis based on PSM-DID](https://github.com/CarolineZOU/Thesis/blob/main/2025%20An%20empirical%20analysis%20based%20on%20PSM-DID_CN.pdf)** -2025, World Economic Literature Introduction Paper
   ![Stars](https://img.shields.io/github/stars/username/project)
   
 ### 🛠️ 工具库 Tools
