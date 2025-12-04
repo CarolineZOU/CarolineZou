@@ -10,7 +10,7 @@
 - Strategy validation 策略验证
 
 ### 🔥 论文 Thesis
-- **[Project Name](https://github.com/username/project)** - 简短描述
+- **[Quantitative Analysis and Strategy Insights Into Momentum Dynamics at Wimbledon]((https://github.com/CarolineZOU/Thesis/blob/main/2024%20Quantitative%20Analysis%20and%20Strategy%20Insights%20Into%20Momentum%20Dynamics%20at%20Wimbledon.pdf))** - 简短描述
   ![Stars](https://img.shields.io/github/stars/username/project)
   
 ### 🛠️ 工具库 Tools
