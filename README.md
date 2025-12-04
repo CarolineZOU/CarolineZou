@@ -20,8 +20,8 @@
 **[Quantitative Analysis and Strategy Insights Into Momentum Dynamics at Wimbledon](https://github.com/CarolineZOU/Thesis/blob/main/2024%20Quantitative%20Analysis%20and%20Strategy%20Insights%20Into%20Momentum%20Dynamics%20at%20Wimbledon.pdf)** 
  
   
-### 🛠️ 工具库 Tools
-- [Research Toolkit](https://github.com/username/toolkit) - 研究常用工具集合
+### 🛠️ 代码碎片 Code fragments
+- [Some codes were used on above paper](https://github.com/username/toolkit) - I'm still improving my coding..so it's fragments only.
 
 ## 📊 数据集 Database
 - [Dataset Name](datasets/dataset-name) - 数据集描述
