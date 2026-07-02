@@ -10,6 +10,8 @@
 - Strategy validation 策略验证
 
 ### 🔥 论文 Thesis
+- 2026, Graduation thesis:
+ **[Research on the Impact of Innovation Pilot Policies in Service Trade on the Complexity of Enterprises' Export Technologies]()** 
 - 2025, The 11th China National College Student Statistical Modeling Competition:
  **[HO-STGCN: A Multi-City, Multi-Pollutant Collaborative Prediction Model Based on Spatio-Temporal Graph Convolutional Network and Hybrid Optimization Algorithm — A Case Study on Air Quality Prediction in the Jing-Jin-Ji Region](https://github.com/CarolineZOU/Thesis/blob/main/2025%20HO-STGCN%20Optimization%20Algorithm_EN.pdf)** 
 - 2025, World Economic Literature Introduction Paper(Chinese version only):
