@@ -31,4 +31,4 @@
 - [Beijing-Tianjin-Shijiazhuang air inspection monitoring data (part)]([datasets/dataset-name](https://github.com/CarolineZOU/Thesis/blob/main/jingjinji_rawdata.xlsx)) - rawdata used in HO-STGCN paper.
 
 ## 📬 联系我 Contact
-- Email：caroline_zou2022@163.com
+- Email：zouzou@engineering.upenn.edu; caroline_zou2022@163.com(private)
